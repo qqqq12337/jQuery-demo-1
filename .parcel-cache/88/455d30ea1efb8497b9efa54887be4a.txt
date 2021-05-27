@@ -1,0 +1,11 @@
+10
+40C:\Users\13300\Desktop\jQuery-demo1\dist132665967809566719 1
+39C:\Users\13300\Desktop\jQuery-demo1\src132665967706670421 1
+58C:\Users\13300\Desktop\jQuery-demo1\dist\index.bd78eeec.js132665967809337339 0
+49C:\Users\13300\Desktop\jQuery-demo1\src\style.css132665967706680000 0
+50C:\Users\13300\Desktop\jQuery-demo1\src\index.html132665965177336370 0
+47C:\Users\13300\Desktop\jQuery-demo1\src\main.js132665962951629186 0
+63C:\Users\13300\Desktop\jQuery-demo1\dist\index.6b3a8d04.css.map132665967809546768 0
+59C:\Users\13300\Desktop\jQuery-demo1\dist\index.6b3a8d04.css132665967809327358 0
+62C:\Users\13300\Desktop\jQuery-demo1\dist\index.bd78eeec.js.map132665967809447035 0
+51C:\Users\13300\Desktop\jQuery-demo1\dist\index.html132665967809337339 0
